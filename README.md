@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jessezam
+- 👋 Hi, I’m @jessezam. I mostly work on embedded software for a major security company, so the code stored here is what I do in my free time.
 - 👀 I’m interested in expanding my knowledge of web application development
 - 🌱 I’m currently learning how to develop web applications in PHP
 - 💞️ I’m looking to collaborate on retail/sneaker botting applications
